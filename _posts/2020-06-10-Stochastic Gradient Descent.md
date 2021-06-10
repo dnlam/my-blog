@@ -1,1 +1,1 @@
-THis post is inspired by fastai course.
+This post is inspired by fastai course.
