@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Stochastic gradient descent",
+            "title": "Stochastic Gradient Descent",
             "content": "This post is inspired by fastai course. .",
-            "url": "https://dnlam.github.io/my-blog/2020/06/10/Stochastic-Gradient-Descent.html",
-            "relUrl": "/2020/06/10/Stochastic-Gradient-Descent.html",
+            "url": "https://dnlam.github.io/my-blog/markdown/2020/06/10/Stochastic-Gradient-Descent.html",
+            "relUrl": "/markdown/2020/06/10/Stochastic-Gradient-Descent.html",
             "date": " • Jun 10, 2020"
         }
         
