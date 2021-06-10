@@ -4,8 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I am a Ph.D. student currently affiliated to CEA Leti and Université Grenoble Alpes with expertise in communication protocol in wireless network systems.
